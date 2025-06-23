@@ -1,1 +1,1 @@
-# tubitv
+# tubi.tv/activate
