@@ -10,7 +10,7 @@ Learn how to activate Tubi TV using your code at tubi.tv/activate. Follow simple
 
 .. image:: activatenow.png
    :alt: tubi.tv/activate
-   :target: https://ww0.us?aHR0cHM6Ly9kaXNjb3ZlcmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://fm.ci?aHR0cHM6Ly90dWJpdHZhY3RpdmF0ZS1oZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 ========================================
 How to Activate Tubi TV Using Code at tubi.tv/activate (2025 Guide)
@@ -82,19 +82,15 @@ Q1. How do I enter my Tubi activation code?
 -----------------------------------------
 Visit tubi.tv/activate, sign in, and enter the code from your TV screen.
 
-
 -----------------------------------------
 Q2. Why is my tubi.tv/activate code not working?
 -----------------------------------------
 The code might be expired or mistyped. Refresh your TV app to get a new one.
 
-
-
 -----------------------------------------
 Q3. Do I need an account to activate Tubi TV?
 -----------------------------------------
 Yes, a free Tubi account is required to activate the service on your TV.
-
 
 -----------------------------------------
 Q4. Can I activate Tubi on multiple devices?
