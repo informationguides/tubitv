@@ -10,7 +10,7 @@ Learn how to activate Tubi TV using your code at tubi.tv/activate. Follow simple
 
 .. image:: activatenow.png
    :alt: tubi.tv/activate
-   :target: https://fm.ci?aHR0cHM6Ly90dWJpdHZhY3RpdmF0ZS1oZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://tubitvactivate.mypixieset.com/
 
 ========================================
 How to Activate Tubi TV Using Code at tubi.tv/activate (2025 Guide)
